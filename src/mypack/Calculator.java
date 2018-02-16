@@ -9,13 +9,4 @@ public class Calculator {
 		System.out.println("subtacting.... ");
 	}
 
-	public static void main(String[] args) {
-		
-		Calculator cal=new Calculator();
-		cal.sub();
-		cal.add();
-		cal.sub();
-
-	}
-
 }
