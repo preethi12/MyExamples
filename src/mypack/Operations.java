@@ -1,10 +1,11 @@
 package mypack;
 
 public class Operations {
-	int a=10, b=50, c;
+	byte a=10, b=50;
+		int	c;
 	public void add()
 	{
-		c=a+b;
+		c=(a+b);
 		System.out.println(c);
 	}
 public void sub()
