@@ -6,7 +6,7 @@ public class Calculator {
 	}
 
 	public void sub() {
-		System.out.println("subtacting.... ");
+		System.out.println("subtacting...... ");
 	}
 
 }
