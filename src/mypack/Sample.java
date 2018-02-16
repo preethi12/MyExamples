@@ -10,6 +10,8 @@ public class Sample {
 		cal.sub();
 		Animal an=new Animal();
 		an.sound();
+		primitivedatatypes dt=new primitivedatatypes();
+	dt. status();
 
 	}
 
