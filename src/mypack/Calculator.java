@@ -1,11 +1,11 @@
 package mypack;
 
 public class Calculator {
-	public void add() {
+	protected void add() {
 		System.out.println("adding.....");
 	}
 
-	public void sub() {
+	 void sub() {
 		System.out.println("subtacting...... ");
 	}
 

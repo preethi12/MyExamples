@@ -1,6 +1,5 @@
 package mypack;
 
-import com.sun.org.apache.xpath.internal.operations.Operation;
 
 public class Sample {
 

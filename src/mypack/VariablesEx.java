@@ -1,7 +1,7 @@
 package mypack;
 
 public class VariablesEx {
-	 int a=10;
+	int a=10;
 	int b=20,c;
 	public void add()
 	{
