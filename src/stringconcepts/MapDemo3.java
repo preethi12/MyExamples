@@ -13,7 +13,7 @@ public class MapDemo3 {
 	hs.put(9,"pintu");
 	hs.put(1,"tinku");
 	hs.put(3,"apple");
-	hs.put(8,"beetroot");
+	hs.put(1,"beetroot");
 	hs.put(4, null);
 	hs.put(2, null);
 	for(Map.Entry<Integer,String> entry:hs.entrySet())
